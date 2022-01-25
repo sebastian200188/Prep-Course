@@ -1,0 +1,8 @@
+* Variables: son palabras en las que se pueden almacenar valores para que puedan ser untilizadas más tarde.
+* String: son un tipo de variable que poseen unicamente valor de tipo texto, se deben escribir entre comillas para que puedan ser identificados como string.
+* Funciones: es un tipo de codigo que sirve para almacenar variables y crear tareas especificas para que puedan ser utilizadas cuando las requieran.
+    -Argumentos: es cuando agregamos variables a una funcion para que puedan ser utilizadas dentro de la funcion.
+    -Return: es cuando devolvemos los cambios realizados por una funcion.
+* Derclaraciones if: se utiliza para seguir una instrucción solo si se cumplen lo requisitos que se exigen.
+* Valores booleanos: los valores booleanos son el tipo de valor que definen si algo es verdadero o falso.
+     
