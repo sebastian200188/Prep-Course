@@ -1,0 +1,22 @@
+h1 {
+    color: blue;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: chocolate;
+    padding: 50px;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
