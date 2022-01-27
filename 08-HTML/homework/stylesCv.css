@@ -1,0 +1,64 @@
+body {
+    background-image: url("https://tecnovortex.com/wp-content/uploads/2019/04/wallpaper-engine.jpg");
+    background-size: 84rem; 
+    background-attachment: fixed;
+}
+
+.name {
+    background-color: black;
+    padding: 5px;
+    position: fixed;
+    right: 0px;
+    left: 0px;
+    top: 0px;
+    padding-left: 20px;
+}
+
+.imgPerfil {
+    position: fixed;
+    right: 10px;
+    top: 10px;
+    max-width: 75px;
+    max-height: 75px;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: yellow;
+}
+
+.sectionTop {
+    margin-bottom: 20px;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-top: 100px;
+    background-color: chocolate;
+    padding: 20px;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.section {
+    margin-bottom: 20px;
+    margin-right: 200px;
+    margin-left: 200px;
+    background-color: chocolate;
+    padding: 20px;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.tittle {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
